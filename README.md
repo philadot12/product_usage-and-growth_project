@@ -8,9 +8,7 @@ Objective: Analyze the provided e-commerce transaction and usage data to identif
 
 Final Output: A scalable process yielding clean, aggregated data ready for a Business Intelligence (BI) dashboard (e.g., Power BI, Tableau).
 
-Automation: Implementation of a Python script to automate the extraction and aggregation of recurring analysis, saving valuable analyst time.
-
-Key Metrics Tracked
+### Key Metrics Tracked
 
 Financial Growth: Total Revenue, Average Order Value (AOV).
 
