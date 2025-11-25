@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,OrdersCount,TotalUnitsSold,ProductRevenue
+P0162,"Neo Lamp 162",Books,Amanfuo,30,38,112683.68000000001
+P0071,"Neo Ball 71",Home,Amanfuo,31,38,102581.76
+P0189,"Pro Lamp 189",Toys,TemaHome,35,44,98979.75999999995
+P0026,"Classic Sneaker 26",Electronics,Aseda,34,35,92233.75
+P0176,"Eco Blender 176",Grocery,Nyame,28,31,91855.48000000004
+P0149,"Pro Ball 149",Electronics,TemaHome,29,35,91329.35000000005
+P0015,"Prime Book 15",Home,Aseda,24,33,90429.23999999998
+P0032,"Ultra Sneaker 32",Home,Koala,25,35,90310.84999999998
+P0154,"Pro Sneaker 154",Home,Amanfuo,27,31,88093.01000000002
+P0042,"Classic Lamp 42",Sports,Amanfuo,33,41,85805.20999999996
