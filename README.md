@@ -28,4 +28,4 @@ Table Name: All queries assume the raw data is loaded into a table named Product
 
 Raw Data File: Project_1_Product_Usage.csv
 ## Dataset used
-- <a href= "">Dataset</a>
+- <a href= "https://github.com/philadot12/product_usage-and-growth_project/blob/main/ProductUsage.csv">Dataset</a>
